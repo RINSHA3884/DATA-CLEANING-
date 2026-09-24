@@ -13,5 +13,5 @@ The main objectives of this assignment are to:
 * Create custom conditional formatting rules based on specific categories.
 * Use Excel formulas and built-in tools to clean and organize the dataset.
 
-Through these tasks, the assignment demonstrates practical skills in Excel data cleaning, formatting, transformation, and visualization.# DATA-CLEANING-
+Through these tasks, the assignment demonstrates practical skills in Excel data cleaning, formatting, transformation, and visualization. DATA-CLEANING-
 data cleaning and formatting assignment using ms excel
